@@ -16,8 +16,7 @@
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx ./quartz/util/path.test.ts && tsx ./quartz/depgraph.test.ts",
-    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "deploy": "npx gh-pages -d public"
+    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
   },
   "engines": {
     "npm": ">=9.3.1",
@@ -103,7 +102,6 @@
     "@types/ws": "^8.5.10",
     "@types/yargs": "^17.0.32",
     "esbuild": "^0.19.9",
-    "gh-pages": "^6.1.1",
     "prettier": "^3.2.4",
     "tsx": "^4.7.1",
     "typescript": "^5.4.3"

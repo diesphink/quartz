@@ -6,16 +6,10 @@
       <description>Last 10 notes on Diego Pereyra</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>web-rpg</title>
-    <link>https://diegopereyra.com/webroot/web-rpg</link>
-    <guid>https://diegopereyra.com/webroot/web-rpg</guid>
-    <description>Bugubi Quimera - Level 10 Dalton.</description>
-    <pubDate>Sun, 07 Apr 2024 20:41:27 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://diegopereyra.com/webroot/</link>
-    <guid>https://diegopereyra.com/webroot/</guid>
-    <description>This is the main page! web-rpg.</description>
+    <title>diegopereyra.com-index</title>
+    <link>https://diegopereyra.com/diegopereyra.com-index</link>
+    <guid>https://diegopereyra.com/diegopereyra.com-index</guid>
+    <description>This is the main page! Links para coisas de rpg.</description>
     <pubDate>Sun, 07 Apr 2024 20:22:38 GMT</pubDate>
   </item><item>
     <title>public-garden-index</title>

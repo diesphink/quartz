@@ -71,7 +71,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
     ],
-    filters: [Plugin.ExplicitPublish()],
+    filters: [Plugin.ShareDiegoPereyra()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
